@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FARHANAYASMIN18
+- 👋 Hi, I’m @FARHANAYASMIN
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning B.Tech
 - 💞️ I’m looking to collaborate on github
